@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Shop More</string>
+    <string name="rightAddress">The Right Address\n For Shopping\nAnyway</string>
+    <string name="quality">It is now very easy to reach the\nbest quality among all the\nproducts on the internet</string>
+
+    <string name="screen1">Price Cuts</string>
+    <string name="screen2">Fast Delivery</string>
+    <string name="screen3">Track Order</string>
+
+
+    <string name="screen1desc">
+Explore our Price Cuts slider for unbeatable discounts on a variety of products, offering incredible savings and value for savvy shoppers.
+    </string>
+
+    <string name="screen2desc">
+        Experience swift delivery with our app, ensuring your orders reach you promptly for ultimate convenience and satisfaction.
+    </string>
+
+    <string name="screen3desc">
+Stay informed with our track order feature in the application. Easily monitor your purchases and receive real-time updates on delivery progress.
+    </string>
+
+    <string name="startDesc">Description.</string>
+</resources>
